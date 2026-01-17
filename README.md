@@ -5,7 +5,7 @@
 <h1 align="center">Srinivas here!!</h1>
 
 # 💫 About Me:
-💻 First-year Computer Science & Engineering student at Vidya Vardahaka College of Engineering, Mysore.<br>⚙️ Hands-on experience with Autonomous bots,Frontend and Backend development.<br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
+• First-year Computer Science & Engineering student at Vidya Vardahaka College of Engineering, Mysore.<br>• Hands-on experience with Autonomous bots,Frontend and Backend development.<br>• Continuously learning and innovating at the intersection of tech and problem-solving.
 
 
 ## 🌐 Socials:
@@ -31,4 +31,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Srinivas2s&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
