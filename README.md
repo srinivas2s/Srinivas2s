@@ -26,7 +26,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Srinivas2s&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Srinivas2s&theme=one_dark_pro&hide_border=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Srinivas2s&theme=one_dark_pro&hide_border=false)<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas2s&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
