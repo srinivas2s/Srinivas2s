@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas2s&label=Profile%20views&color=0e75b6&style=flat" alt="Srinivas P" /> </p>
 
+
 # 💫 About Me:
 • First-year Computer Science & Engineering student at Vidya Vardahaka College of Engineering, Mysore.<br>• Hands-on experience with Autonomous bots,Frontend and Backend development.<br>• Continuously learning and innovating at the intersection of tech and problem-solving.
 
