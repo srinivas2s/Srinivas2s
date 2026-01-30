@@ -50,5 +50,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Srinivas2s&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Srinivas2s&icon=5&color=8)](https://visitcount.itsvg.in)
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas2s&label=Profile%20views&color=0e75b6&style=flat" alt="Srinivas P" /> </p>
