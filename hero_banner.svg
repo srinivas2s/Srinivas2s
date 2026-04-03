@@ -1,0 +1,20 @@
+<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 900 60px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #00D4FF; text-transform: uppercase; letter-spacing: 5px; filter: drop-shadow(0 0 10px #00D4FF); }
+    .subtitle { font: 600 18px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #00BFFF; opacity: 0.8; }
+    .scan-line { fill: url(#lineGradient); animation: scan 3s infinite linear; }
+    @keyframes scan { from { transform: translateX(-800px); } to { transform: translateX(800px); } }
+  </style>
+  <rect width="800" height="150" fill="#0D1117" rx="15" />
+  <text x="50%" y="65" text-anchor="middle" class="title">SRINIVAS P</text>
+  <text x="50%" y="105" text-anchor="middle" class="subtitle">COMPUTER SCIENCE UNDERGRADUATE | FULL STACK ARCHITECT</text>
+  <rect x="0" y="0" width="100%" height="2" class="scan-line" />
+  <rect x="0" y="148" width="100%" height="2" class="scan-line" style="animation-direction: reverse;" />
+  <defs>
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="50%" stop-color="#00D4FF" />
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+  </defs>
+</svg>
