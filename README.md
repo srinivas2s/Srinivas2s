@@ -345,7 +345,7 @@ motto: >
 <!-- STATS CARDS -->
 <img src="https://github-readme-stats.vercel.app/api?username=Srinivas2s&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=00BFFF&icon_color=00D4FF&ring_color=0099FF" width="49%" alt="Stats"/>
 &nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=Srinivas2s&theme=algolia&hide_border=true&background=0D1117&stroke=0099FF&ring=00D4FF&fire=00BFFF&currStreakLabel=00D4FF&sideLabels=00BFFF&currStreakNum=00D4FF&sideNums=00BFFF&dates=0099FF" width="49%" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Srinivas2s&theme=algolia&hide_border=true&background=0D1117&stroke=0099FF&ring=00D4FF&fire=00BFFF&currStreakLabel=00D4FF&sideLabels=00BFFF&currStreakNum=00D4FF&sideNums=00BFFF&dates=0099FF" width="49%" alt="Streak"/>
 
 <br><br>
 
@@ -369,7 +369,7 @@ motto: >
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srinivas2s&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Srinivas2s&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 
 </div>
 
@@ -492,7 +492,9 @@ motto: >
 
 <br><br>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Srinivas2s&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=00BFFF" alt="Top Repos"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srinivas2s&theme=algolia&utcOffset=5.5" width="49%" alt="Productive Time"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinivas2s&theme=algolia" width="49%" alt="Overall Stats"/>
 
 </div>
 
