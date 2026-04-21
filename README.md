@@ -28,7 +28,7 @@
 <img src="neon_divider.svg" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     DISTRICT OVERVIEW (TELEMETRY)             -->
+<!--                     DISTRICT TELEMETRY (STATS)                -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -38,28 +38,33 @@
 <br>
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  <h3>⚡ CONTRIBUTION ARCHITECTURE</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinivas2s&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=00BFFF&icon_color=00D4FF" width="100%" />
-</td>
-<td width="48%" align="center">
-  <h3>🏗️ BUILD STREAK</h3>
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Srinivas2s&theme=algolia&hide_border=true&background=0D1117&stroke=0099FF&ring=00D4FF&fire=00BFFF" width="100%" />
-</td>
-</tr>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" style="border: 2px solid #00D4FF; border-radius: 15px; padding: 10px; background: rgba(13, 17, 23, 0.8);">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=300&height=40&lines=%E2%9A%A1+CORE+METRICS" alt="Metrics Header" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Srinivas2s&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=00BFFF&icon_color=00D4FF" width="100%" />
+    </td>
+    <td width="2%"></td>
+    <td width="48%" align="center" style="border: 2px solid #00D4FF; border-radius: 15px; padding: 10px; background: rgba(13, 17, 23, 0.8);">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%9A%80+CONSTRUCTION+STREAK" alt="Streak Header" />
+      <br>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Srinivas2s&theme=algolia&hide_border=true&background=0D1117&stroke=0099FF&ring=00D4FF&fire=00BFFF" width="100%" />
+    </td>
+  </tr>
 </table>
-</div>
 
 <br>
 
-<div align="center">
-  <h3>🛰️ PULL REQUESTS & CODE TRAFFIC</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas2s&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D4FF&text_color=00BFFF" width="80%" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" align="center" style="border: 2px solid #00D4FF; border-radius: 15px; padding: 20px; background: rgba(13, 17, 23, 0.8);">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%93%8A+RESOURCE+ALLOCATION+(LANGUAGES)" alt="Analytics Header" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas2s&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D4FF&text_color=00BFFF" width="85%" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
@@ -114,7 +119,7 @@ const CITY_STATS = {
 
 <br>
 
-<div align="center">
+<div align="center" style="border: 1px solid #00BFFF; border-radius: 10px; padding: 15px; margin: 10px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinivas2s&bg_color=0D1117&color=00D4FF&line=00BFFF&point=FFFFFF&area_color=0099FF&area=true&hide_border=true&custom_title=%E2%9A%A1%20METROPOLIS%20ACTIVITY%20GRAPH%20%E2%9A%A1" width="95%" />
 </div>
 
